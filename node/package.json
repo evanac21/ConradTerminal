@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "bcrypt": "^3.0.4",
+    "chalk": "^2.4.2",
+    "express": "^4.16.4",
+    "keypress": "^0.2.1",
+    "readline-sync": "^1.4.9"
   }
 }
