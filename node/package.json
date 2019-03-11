@@ -1,0 +1,14 @@
+{
+  "name": "conradterminal",
+  "version": "0.0.1",
+  "description": "A web based Terminal",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
